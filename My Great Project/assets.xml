@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds />
+  <images>
+    <image name="background">
+      <file name="background.png" size="842575" />
+    </image>
+    <image name="title">
+      <file name="title.png" size="12235" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
