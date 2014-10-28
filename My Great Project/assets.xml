@@ -8,6 +8,9 @@
     <image name="title">
       <file name="title.png" size="12235" />
     </image>
+    <image name="play button">
+      <file name="play button.png" size="3849" />
+    </image>
   </images>
   <behaviors />
 </assets>

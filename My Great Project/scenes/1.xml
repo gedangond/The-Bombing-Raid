@@ -51,6 +51,7 @@
               <real id="height">400</real>
             </size>
             <angle id="rotation">0</angle>
+            <image id="image">title</image>
           </attributes>
           <aspects>
             <graphics>
@@ -58,6 +59,48 @@
                 <integer id="tileWidth" name="tileWidth">0</integer>
                 <integer id="tileHeight" name="tileHeight">0</integer>
               </attributes>
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id298757" prototype="id169467">
+          <attributes>
+            <point id="position">
+              <real id="x">205.5</real>
+              <real id="y">178</real>
+            </point>
+            <size id="size">
+              <real id="width">578</real>
+              <real id="height">391</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <behaviors>
+            <behavior id="id783307" class="RuleBehavior" enabled="true">
+              <attributes>
+                <text id="name">Rule</text>
+                <text id="bundleName">Rule.behavior</text>
+                <real id="compoundConditionKind">0</real>
+              </attributes>
+              <conditions>
+                <condition id="id989608" eventType="mouse button" pluginPredicateTypeIndex="0" class="MouseButton">
+                  <attributes>
+                    <text id="name">default name</text>
+                    <index id="conditionType">0</index>
+                  </attributes>
+                  <predicate type="mouse" mouseState="down">
+                    <attributes />
+                  </predicate>
+                </condition>
+              </conditions>
+            </behavior>
+          </behaviors>
+          <aspects>
+            <graphics>
+              <attributes />
             </graphics>
             <motion />
             <physics>

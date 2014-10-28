@@ -17,9 +17,11 @@
   <prototypes>
     <actor id="id685929" />
     <actor id="id373276" />
+    <actor id="id169467" />
   </prototypes>
   <plugins />
   <scenes>
     <scene id="id298360" />
+    <scene id="id967945" />
   </scenes>
 </game>
