@@ -2,7 +2,82 @@
 <scene PGFVersion="0.19" GSCVersion="0.10.5" id="id967945">
   <layers>
     <layer id="id348961">
-      <actors />
+      <actors>
+        <actor id="id273160" prototype="id462116">
+          <attributes>
+            <point id="position">
+              <real id="x">239</real>
+              <real id="y">162</real>
+            </point>
+            <size id="size">
+              <real id="width">476</real>
+              <real id="height">317</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id720690" prototype="id930867">
+          <attributes>
+            <point id="position">
+              <real id="x">207.5</real>
+              <real id="y">48.5</real>
+            </point>
+            <size id="size">
+              <real id="width">534</real>
+              <real id="height">393</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <behaviors>
+            <behavior id="id137637" class="RuleBehavior" enabled="true">
+              <attributes>
+                <text id="name">Rule</text>
+                <text id="bundleName">Rule.behavior</text>
+                <real id="compoundConditionKind">0</real>
+              </attributes>
+              <conditions>
+                <condition id="id797935" eventType="mouse button" pluginPredicateTypeIndex="0" class="MouseButton">
+                  <attributes>
+                    <text id="name">default name</text>
+                    <index id="conditionType">0</index>
+                  </attributes>
+                  <predicate type="mouse" mouseState="down">
+                    <attributes />
+                  </predicate>
+                </condition>
+              </conditions>
+              <behaviors>
+                <behavior id="id364328" class="ChangeSceneAction" enabled="true">
+                  <attributes>
+                    <text id="name">Change Scene</text>
+                    <text id="bundleName">ChangeScene.behavior</text>
+                    <text id="sceneKey">next</text>
+                    <boolean id="enableAdvertisement">false</boolean>
+                  </attributes>
+                </behavior>
+              </behaviors>
+            </behavior>
+          </behaviors>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
+      </actors>
       <attributes>
         <text id="name">Background</text>
         <boolean id="scrollable">true</boolean>
@@ -10,7 +85,7 @@
     </layer>
   </layers>
   <attributes>
-    <text id="name">Scene 1</text>
+    <text id="name">Instructions</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">480</real>
@@ -26,7 +101,7 @@
       <real id="red">0</real>
       <real id="green">0</real>
       <real id="blue">0</real>
-      <real id="alpha">1</real>
+      <real id="alpha">0</real>
     </color>
     <rect id="camera">
       <point id="origin">

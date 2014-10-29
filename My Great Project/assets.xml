@@ -11,6 +11,9 @@
     <image name="play button">
       <file name="play button.png" size="3849" />
     </image>
+    <image name="instructions">
+      <file name="instructions.PNG" size="1030784" />
+    </image>
   </images>
   <behaviors />
 </assets>

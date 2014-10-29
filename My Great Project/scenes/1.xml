@@ -96,11 +96,24 @@
                   </predicate>
                 </condition>
               </conditions>
+              <behaviors>
+                <behavior id="id937207" class="ChangeSceneAction" enabled="true">
+                  <attributes>
+                    <text id="name">Change Scene</text>
+                    <text id="bundleName">ChangeScene.behavior</text>
+                    <text id="sceneKey">next</text>
+                    <boolean id="enableAdvertisement">false</boolean>
+                  </attributes>
+                </behavior>
+              </behaviors>
             </behavior>
           </behaviors>
           <aspects>
             <graphics>
-              <attributes />
+              <attributes>
+                <integer id="tileWidth" name="tileWidth">0</integer>
+                <integer id="tileHeight" name="tileHeight">0</integer>
+              </attributes>
             </graphics>
             <motion />
             <physics>
