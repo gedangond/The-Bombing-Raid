@@ -14,6 +14,12 @@
     <image name="instructions">
       <file name="instructions.PNG" size="1030784" />
     </image>
+    <image name="game scenen 1">
+      <file name="game scenen 1.PNG" size="2517" />
+    </image>
+    <image name="game screen 2">
+      <file name="game screen 2.PNG" size="2682" />
+    </image>
   </images>
   <behaviors />
 </assets>

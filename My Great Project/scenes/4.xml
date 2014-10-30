@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.19" GSCVersion="0.10.5" id="id163050">
+<scene PGFVersion="0.19" GSCVersion="0.10.5" id="id111231">
   <layers>
-    <layer id="id624190">
+    <layer id="id539302">
       <actors>
-        <actor id="id849155" prototype="id685929">
+        <actor id="id587515" prototype="id305529">
           <attributes>
             <point id="position">
-              <real id="x">704.5</real>
-              <real id="y">157.5</real>
+              <real id="x">451.5</real>
+              <real id="y">161</real>
             </point>
             <size id="size">
-              <real id="width">1405</real>
-              <real id="height">324</real>
+              <real id="width">899</real>
+              <real id="height">318</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
@@ -25,19 +25,18 @@
             </physics>
           </aspects>
         </actor>
-        <actor id="id378251" prototype="id540510">
+        <actor id="id279022" prototype="id296671">
           <attributes>
             <point id="position">
-              <real id="x">239</real>
-              <real id="y">158</real>
+              <real id="x">241</real>
+              <real id="y">159.5</real>
             </point>
             <size id="size">
-              <real id="width">479</real>
-              <real id="height">321</real>
+              <real id="width">476</real>
+              <real id="height">320</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
-          <behaviors />
           <aspects>
             <graphics>
               <attributes />
@@ -56,7 +55,7 @@
     </layer>
   </layers>
   <attributes>
-    <text id="name">Scene 1</text>
+    <text id="name">Scene 2</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">480</real>

@@ -18,14 +18,19 @@
     <actor id="id685929" />
     <actor id="id373276" />
     <actor id="id169467" />
-    <actor id="id704003" />
     <actor id="id462116" />
     <actor id="id930867" />
+    <actor id="id774010" />
+    <actor id="id740561" />
+    <actor id="id540510" />
+    <actor id="id305529" />
+    <actor id="id296671" />
   </prototypes>
   <plugins />
   <scenes>
     <scene id="id298360" />
     <scene id="id967945" />
     <scene id="id163050" />
+    <scene id="id111231" />
   </scenes>
 </game>
