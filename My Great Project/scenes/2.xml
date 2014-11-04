@@ -28,11 +28,33 @@
             </physics>
           </aspects>
         </actor>
+        <actor id="id221981" prototype="id274390">
+          <attributes>
+            <point id="position">
+              <real id="x">242.5</real>
+              <real id="y">161</real>
+            </point>
+            <size id="size">
+              <real id="width">483</real>
+              <real id="height">318</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion />
+            <physics>
+              <attributes />
+            </physics>
+          </aspects>
+        </actor>
         <actor id="id720690" prototype="id930867">
           <attributes>
             <point id="position">
-              <real id="x">207.5</real>
-              <real id="y">48.5</real>
+              <real id="x">212.5</real>
+              <real id="y">50.5</real>
             </point>
             <size id="size">
               <real id="width">534</real>

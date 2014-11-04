@@ -20,6 +20,9 @@
     <image name="game screen 2">
       <file name="game screen 2.PNG" size="2682" />
     </image>
+    <image name="instructions2">
+      <file name="instructions2.png" size="775867" />
+    </image>
   </images>
   <behaviors />
 </assets>
