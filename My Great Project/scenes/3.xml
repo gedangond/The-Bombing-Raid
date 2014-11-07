@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.19" GSCVersion="0.10.5" id="id163050">
+<scene PGFVersion="0.19" GSCVersion="0.10.5" id="id252207">
   <layers>
-    <layer id="id624190">
+    <layer id="id666365">
       <actors>
-        <actor id="id849155" prototype="id685929">
+        <actor id="id694333" prototype="id673969">
           <attributes>
             <point id="position">
-              <real id="x">704.5</real>
-              <real id="y">157.5</real>
+              <real id="x">239.5</real>
+              <real id="y">161</real>
             </point>
             <size id="size">
-              <real id="width">1405</real>
-              <real id="height">324</real>
+              <real id="width">481</real>
+              <real id="height">319</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
           <aspects>
             <graphics>
-              <attributes>
-                <integer id="tileWidth" name="tileWidth">0</integer>
-                <integer id="tileHeight" name="tileHeight">0</integer>
-              </attributes>
-            </graphics>
-            <motion />
-            <physics>
               <attributes />
-            </physics>
-          </aspects>
-        </actor>
-        <actor id="id378251" prototype="id540510">
-          <attributes>
-            <point id="position">
-              <real id="x">239</real>
-              <real id="y">158</real>
-            </point>
-            <size id="size">
-              <real id="width">479</real>
-              <real id="height">321</real>
-            </size>
-            <angle id="rotation">0</angle>
-          </attributes>
-          <behaviors />
-          <aspects>
-            <graphics>
-              <attributes>
-                <integer id="tileWidth" name="tileWidth">0</integer>
-                <integer id="tileHeight" name="tileHeight">0</integer>
-              </attributes>
             </graphics>
             <motion />
             <physics>

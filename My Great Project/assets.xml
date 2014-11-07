@@ -14,14 +14,20 @@
     <image name="instructions">
       <file name="instructions.PNG" size="1030784" />
     </image>
-    <image name="game scenen 1">
-      <file name="game scenen 1.PNG" size="2517" />
-    </image>
     <image name="game screen 2">
       <file name="game screen 2.PNG" size="2682" />
     </image>
     <image name="instructions2">
       <file name="instructions2.png" size="775867" />
+    </image>
+    <image name="game scene 2 capture">
+      <file name="game scene 2 capture.PNG" size="28778" />
+    </image>
+    <image name="game scen 1 capture">
+      <file name="game scen 1 capture.PNG" size="20766" />
+    </image>
+    <image name="engine room">
+      <file name="engine room.png" size="25336" />
     </image>
   </images>
   <behaviors />

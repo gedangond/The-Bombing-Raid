@@ -26,12 +26,17 @@
     <actor id="id305529" />
     <actor id="id296671" />
     <actor id="id274390" />
+    <actor id="id579381" />
+    <actor id="id673969" />
+    <actor id="id450732" />
   </prototypes>
   <plugins />
   <scenes>
     <scene id="id298360" />
     <scene id="id967945" />
-    <scene id="id163050" />
-    <scene id="id111231" />
+    <scene id="id252207" />
+    <scene id="id771374" />
+    <scene id="id774307" />
+    <scene id="id781774" />
   </scenes>
 </game>
