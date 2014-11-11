@@ -29,6 +29,18 @@
     <image name="engine room">
       <file name="engine room.png" size="25336" />
     </image>
+    <image name="fuel storage capture">
+      <file name="fuel storage capture.PNG" size="17693" />
+    </image>
+    <image name="bomb storage">
+      <file name="bomb storage.PNG" size="18060" />
+    </image>
+    <image name="captains room">
+      <file name="captains room.PNG" size="33834" />
+    </image>
+    <image name="win scene">
+      <file name="win scene.PNG" size="487737" />
+    </image>
   </images>
   <behaviors />
 </assets>
